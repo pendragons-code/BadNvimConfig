@@ -1,0 +1,2 @@
+# BadNvimConfig
+Haha no
